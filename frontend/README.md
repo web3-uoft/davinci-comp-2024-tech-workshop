@@ -47,22 +47,12 @@ Follow these steps to set up the project locally:
 
 ### Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/firebase-task-app.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd firebase-task-app
-   ```
-
-3. Install the required dependencies:
+1. Install the required dependencies:
    ```bash
    npm install
    ```
 
-4. Add your Firebase configuration:
+2. Add your Firebase configuration:
    - Create a `.env.local` file in the root of the project.
    - Add the following Firebase credentials:
      ```
@@ -74,7 +64,7 @@ Follow these steps to set up the project locally:
      NEXT_PUBLIC_FIREBASE_APP_ID=your-app-id
      ```
 
-5. Start the development server:
+3. Start the development server:
    ```bash
    npm run dev
    ```

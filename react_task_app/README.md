@@ -36,22 +36,12 @@ Follow these steps to set up the project locally:
 
 ### Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/react-task-app.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd react-task-app
-   ```
-
-3. Install the required dependencies:
+1. Install the required dependencies:
    ```bash
    npm install
    ```
 
-4. Start the development server:
+2. Start the development server:
    ```bash
    npm start
    ```
